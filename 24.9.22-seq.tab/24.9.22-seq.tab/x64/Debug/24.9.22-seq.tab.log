@@ -1,0 +1,11 @@
+﻿  test1.cpp
+C:\e学习\c-language-learning\24.9.22-seq.tab\24.9.22-seq.tab\moran.h(1,1): warning C4828: 文件包含在偏移 0x574 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test.cpp
+C:\e学习\c-language-learning\24.9.22-seq.tab\24.9.22-seq.tab\test.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\e学习\c-language-learning\24.9.22-seq.tab\24.9.22-seq.tab\moran.h(1,1): warning C4828: 文件包含在偏移 0x574 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\e学习\c-language-learning\24.9.22-seq.tab\24.9.22-seq.tab\test.cpp(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\e学习\c-language-learning\24.9.22-seq.tab\24.9.22-seq.tab\test.cpp(15,9): message : 请考虑在格式字符串中使用“%zd”
+  test2.cpp
+C:\e学习\c-language-learning\24.9.22-seq.tab\24.9.22-seq.tab\moran.h(1,1): warning C4828: 文件包含在偏移 0x574 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  24.9.22-seq.tab.vcxproj -> C:\e学习\c-language-learning\24.9.22-seq.tab\x64\Debug\24.9.22-seq.tab.exe
